@@ -8,9 +8,12 @@ Um pouco de téoria sobre JS, Node, Express.
 
 ## EXPLORANDO O NODE - OS
 
-## EXPLORANDO O NODE - FS
+## EXPLORANDO O NODE - FS E PATH
 
 ## EXPLORANDO O NODE - EVENTLOOP
+
+## EXPLORANDO O NODE - HTTP
+
 
 
 
