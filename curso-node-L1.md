@@ -4,7 +4,7 @@
 
 Um pouco de história do JS, entendendo o node como meio de rodar JS do lado do servidor, estrutura geral e aplicações.
 
-Nesse tópico iremos ver um pouco sobre teória por trás da mágica.
+Nesse tópico iremos ver um pouco sobre téoria por trás da mágica.
 
 ## MEU PRIMEIRO: LET'S ROCK BABY!
 
