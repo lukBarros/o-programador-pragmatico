@@ -2,6 +2,18 @@
 
 ## 1 - Noções básicas de navegação em diretórios
 
+Diretório raiz
+
+Listar diretórios
+
+Listar diretórios formatados
+
+Listar diretórios com ovultos
+
+Criar diretório
+
+Remover diretório
+
 ## 2 - Como análisar recursos da maquina
 
 ## 3 - Comando history - histórico de comandos digitados
