@@ -18,6 +18,8 @@ Remover diretório
 
 ## 3 - Comando history - histórico de comandos digitados
 
+Conteúdo gravado - https://www.youtube.com/watch?v=C5XGlZHxHFg
+
 ## 4 - Reiniciando e desligando a maquina
 
 ## 5 - Baixando arquivos da web
